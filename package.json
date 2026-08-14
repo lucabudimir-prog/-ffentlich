@@ -1,0 +1,28 @@
+{
+  "name": "-ffentlich",
+  "version": "1.0.0",
+  "description": "Offline-fähiges Portfolio-Dashboard (Portfolio Command Center) als einzelne HTML-Datei.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucabudimir-prog/-ffentlich.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucabudimir-prog/-ffentlich/issues"
+  },
+  "homepage": "https://github.com/lucabudimir-prog/-ffentlich#readme",
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "lucide-react": "^1.31.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "recharts": "^3.10.1",
+    "tailwindcss": "^3.4.19"
+  }
+}
